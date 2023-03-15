@@ -8,4 +8,11 @@
 
 4. Mantenerse actualizado: La tecnología está en constante evolución, y es importante mantenerse actualizado en tu campo. Lee publicaciones especializadas, asiste a conferencias y seminarios, y participa en grupos de discusión en línea para estar al tanto de las últimas tendencias y tecnologías. Esto te ayudará a mantenerte relevante y a contribuir más significativamente a la empresa.
 
-hvdshjs
+## Subtitulo
+
+3. Conocer a tu equipo: Tómate el tiempo para conocer a tus compañeros de equipo y entender sus fortalezas y debilidades. También es importante conocer las expectativas del equipo para tu papel y cómo puedes contribuir al éxito del equipo. Puedes establecer reuniones individuales o en equipo para conocer a tus compañeros de trabajo.
+
+- Item
+- Item
+- Item
+- Item
